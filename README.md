@@ -1,8 +1,6 @@
-# Amazon-Laptop-Price-Scrapper-with-Selenium
-This project is a web scraping tool built with Selenium that extracts the price, title, and link of various laptops listed on amazon .This project showcases how Selenium can be leveraged for web scraping tasks to gather and organize information efficiently.
 
 # Amazon Laptop Price Scraper with Selenium
-
+This project is a web scraping tool built with Selenium that extracts the price, title, and link of various laptops listed on amazon .This project showcases how Selenium can be leveraged for web scraping tasks to gather and organize information efficiently.
 ## Overview
 This project automates the process of collecting information about laptops listed on Amazon, including the title, price, and link. The extracted data is saved into a CSV file, making it easy to analyze or use in other applications. This project demonstrates how Selenium can be used for web scraping tasks to gather and organize information efficiently.
 
